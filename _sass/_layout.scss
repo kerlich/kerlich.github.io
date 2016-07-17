@@ -19,6 +19,9 @@
     float: left;
 
     &,
+    &:hover {
+        color: $grey-color;
+    }
     &:visited {
         color: $grey-color-light;
     }
