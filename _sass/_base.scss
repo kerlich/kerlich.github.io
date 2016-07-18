@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: rgb(000,200,200,000);
+    color: $uv-color;
     text-decoration: none;
 
     &:visited {
