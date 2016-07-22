@@ -5,5 +5,9 @@ date: 2016-07-22 03:13:01 -0400
 categories: idk
 ---
 
-Okay, let's just see if this works first.
+Okay, let's just see if this works first. Beautiful! And How about this:
+
+{ % Highlight Ruby % }
+SOME RANDOM TEXT
+{ % endHighlight % }
 
