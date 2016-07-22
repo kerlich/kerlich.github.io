@@ -14,6 +14,6 @@ SOME RANDOM TEXT
 
 And, a link to [google][google].
 
-[link-1]: https://www.google.com/
+[google]: https://www.google.com/
 
 
