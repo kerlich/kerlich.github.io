@@ -5,9 +5,10 @@ date: 2016-07-22 03:13:01 -0400
 categories: idk
 ---
 
-Okay, let's just see if this works first. Beautiful! And How about this:
+Okay, let's just see if this works first. 
+Beautiful! And How about this:
 
-{ % Highlight Ruby % }
+{% highlight Ruby %}
 SOME RANDOM TEXT
-{ % endHighlight % }
+{% endhighlight %}
 
