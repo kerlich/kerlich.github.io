@@ -9,6 +9,9 @@ Okay, let's just see if this works first.
 Beautiful! And How about this:
 
 {% highlight Ruby %}
-SOME RANDOM TEXT
+SOME RANDOM TEXT (with a [link][link-1])
 {% endhighlight %}
+
+[link-1] = https://www.google.com
+
 
