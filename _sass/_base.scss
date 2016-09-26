@@ -95,12 +95,11 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($uv-color, 15%);
+        color: darken($uv-color, 5%);
     }
 
     &:hover {
         color: $uv-color-dark;
-        font-weight: bold;
     }
 }
 
