@@ -94,8 +94,9 @@ a {
     color: $uv-color;
     text-decoration: none;
 
-    &:visited {
-        color: darken($uv-color, 5%);
+    &:active {
+        position: relative;
+        bottom: 2px;
     }
 
     &:hover {
